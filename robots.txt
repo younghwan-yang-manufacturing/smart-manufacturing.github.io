@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://smart_manufacturing_yang.github.io/sitemap.xml
+Sitemap: https://smart_manufacturing.github.io/sitemap.xml
